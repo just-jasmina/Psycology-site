@@ -29,11 +29,11 @@ body
 
 .header-nav
 {
+    background-color: #dfd8c9;
     position: fixed;
     top: 0;
     width: 100%;
     z-index: 520;
-    background-color: #dfd8c9;
 }
 
 .nav-list
