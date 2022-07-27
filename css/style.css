@@ -22,8 +22,17 @@ dl, ol, ul {
     margin: 0 auto;
 }
 
+body
+{
+    position: relative;
+}
+
 .header-nav
 {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 520;
     background-color: #dfd8c9;
 }
 
